@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> Siya Kumari </p>
+    <p><strong>Email ID:</strong> kumarisiya034@gmail.com </p>
+    <p><strong>College Name:</strong> Ramgovind Institute of Technology </p>
+    <p><strong>Branch/Specialization :</strong> Electronics and Communication Engineering </p>
+    <p><strong>College ID:</strong> 22034460005 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> Java Application </p>
+    <p><strong>Instructor Name:</strong> Yaseer Alur </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> Six month </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Yaseer Alur</p>
+<p><strong>Trainer Email ID:</strong> yaseeralur03@gmail.com</p>
+<p><strong>Trainer Designation:</strong> Junior Software Engineer</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,53 +63,31 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my internship, uring my internship, I worked on multiple Java mini projects such as a Calculator Application, Movie Booking System, Tic Tac Toe Game, and Library Management System. These projects helped me strengthen my understanding of Object-Oriented Programming concepts, control structures, and logical problem-solving.
+
+I also completed a final project — Food Delivery Application using Spring Boot, where I gained hands-on experience in developing RESTful APIs, applying layered architecture, and integrating the application with a database.
+
+Overall, the internship improved my technical skills, debugging ability, and understanding of real-world backend application development.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> Food Delivery Application</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+[<h3 id="project1">Project 1: Food Delivery Application</h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  This project involved the design and development of a backend-based Food Delivery Application using Java and Spring Boot.
+  The system provides RESTful APIs for user registration and authentication, restaurant and menu management, order placement,
+  payment processing, delivery tracking, and customer reviews. The application implements JWT-based authentication,
+  role-based access control, and database integration using MySQL and Spring Data JPA.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/siyaamodi/food-delivery-app/blob/main/FoodDeliveryApp%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
@@ -124,35 +102,33 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+During the internship period, I participated in Life Skill Training (LST) sessions conducted on alternate Sundays and Soft Skill Training (SST) sessions conducted for a total duration of 15 days.
+
+The Life Skill Training (LST) sessions focused on personal development topics such as self-awareness, discipline, decision-making, time management, and goal setting. These sessions helped improve my mindset, learning habits, and overall approach toward personal and professional growth.
+
+The Soft Skill Training (SST) sessions focused on enhancing communication skills, confidence building, teamwork, professional behavior, and workplace etiquette. The 15-day training provided structured exposure to developing interpersonal and professional skills essential for career readiness.
+
+Overall, both LST and SST sessions played a significant role in strengthening my personal, social, and professional skills alongside technical learning.
+
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
-
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in community service activities focusing on social responsibility and environmental awareness. These activities helped me understand the importance of supporting others and contributing positively to society.
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
-  
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Tree Plantation Drive** –Planted four saplings in my home garden to promote environmental conservation and greenery.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted four senior citizens at a temple by distributing essential clothing items such as sarees and dhotis, contributing to their basic needs and well-being.
 
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Contributed to environmental sustainability by planting and maintaining saplings in my home garden.
+- Supported senior citizens at a temple by providing essential clothing items such as sarees and dhotis.
+- Strengthened community bonds through respectful and meaningful social service.
+- Developed empathy, social responsibility, and improved communication skills through direct community interaction.
 
 ### **Photos**
 
@@ -162,9 +138,8 @@ During my internship period, I participated in multiple community-oriented activ
 - These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/1/1759752731458?e=1766016000&v=beta&t=7GABy91-0FNbir386wPdJ-Grr385JzS3tR5LQIw1CWg" alt="Community Service Photo 1" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/2/1759752731458?e=1766016000&v=beta&t=6RfJQWWqlQUPcCvDnQNW7kR6yf7w-wPDsIPxum409ck" alt="Community Service Photo 2" width="30%">
-<img src="https://media.licdn.com/dms/image/v2/D561FAQEJNBia4UCa5w/feedshare-document-images_800/B56Zm5b6SJJkAg-/3/1759752731458?e=1766016000&v=beta&t=yWaunKdRdLUKBLbmM3UjRYYz-_GSCfWEQ3_R7dW0xLM" alt="Community Service Photo 3" width="30%">
+<img src="https://github.com/siyaamodi/food-delivery-app/blob/main/WhatsApp%20Image%202025-12-23%20at%2020.54.40.jpeg" alt="Community Service Photo 1" width="30%">
+<img src="https://github.com/siyaamodi/food-delivery-app/blob/main/WhatsApp%20Image%202025-12-23%20at%2022.32.43.jpeg" alt="Community Service Photo 2" width="30%">
 </div>
 
 ---

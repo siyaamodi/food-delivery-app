@@ -79,12 +79,22 @@ Overall, the internship improved my technical skills, debugging ability, and und
 </div>
 
 <!-- Project 1 -->
-[<h3 id="project1">Project 1: Food Delivery Application</h3>
+<h3 id="project1">Project 1: Food Delivery Application</h3>
 <p>
-  This project involved the design and development of a backend-based Food Delivery Application using Java and Spring Boot.
-  The system provides RESTful APIs for user registration and authentication, restaurant and menu management, order placement,
-  payment processing, delivery tracking, and customer reviews. The application implements JWT-based authentication,
-  role-based access control, and database integration using MySQL and Spring Data JPA.
+  # Food Delivery Application (Backend)
+
+This repository contains a backend Food Delivery Application developed using **Spring Boot** and **RESTful APIs**. The project is designed to demonstrate core backend development concepts such as API design, authentication, business logic handling, and database integration using Java-based technologies.
+
+The application implements **JWT-based authentication and authorization**, allowing users to securely register and log in to the system. Authentication tokens are used to protect REST endpoints and ensure that only authorized users can access specific resources. This helped in understanding real-world security practices commonly used in backend systems.
+
+The system supports **user management** and a **cart-like order preparation flow**, where users can select multiple food items before placing an order. The selected items are logically managed to generate an order summary, simulating the behavior of a real food delivery platform. After confirmation, the order is processed and stored in the database.
+
+All data persistence is handled using **MySQL**, with database operations implemented through **Spring Data JPA**. This simplifies CRUD operations and enables efficient interaction between the application and the database. The project follows a **layered architecture**, separating responsibilities into Controller, Service, and Repository layers, which improves maintainability, readability, and scalability of the code.
+
+The APIs were tested using **Postman** to validate request handling, authentication flow, and response accuracy. Through this project, key backend development skills such as REST API design, JWT security, database integration, and clean coding practices using Spring Boot were strengthened.
+
+This project is intended for learning and practice purposes and serves as a strong foundation for understanding backend development concepts used in real-world applications.
+
 </p>
 <p>
   <a href="https://github.com/siyaamodi/food-delivery-app/blob/main/FoodDeliveryApp%20(1).pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
@@ -93,11 +103,14 @@ Overall, the internship improved my technical skills, debugging ability, and und
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 
-## **References**
+## References
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- [Spring Boot Official Documentation](https://spring.io/projects/spring-boot)
+- [Spring Data JPA Documentation](https://spring.io/projects/spring-data-jpa)
+- [JSON Web Token (JWT) Introduction](https://jwt.io/introduction)
+- [MySQL Official Documentation](https://dev.mysql.com/doc/)
+- [Postman API Testing Documentation](https://learning.postman.com/)
+- [REST API Concepts – GeeksforGeeks](https://www.geeksforgeeks.org/restful-web-services/)
 
 
 ## **Learnings from LST and SST**
@@ -134,8 +147,6 @@ During my internship period, I participated in community service activities focu
 
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
-
-- These are just placeholder (sample) images <!-- remove this line -->
 
 <div align="center">
 <img src="https://github.com/siyaamodi/food-delivery-app/blob/main/WhatsApp%20Image%202025-12-23%20at%2020.54.40.jpeg" alt="Community Service Photo 1" width="30%">

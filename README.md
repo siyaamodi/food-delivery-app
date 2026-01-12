@@ -145,7 +145,7 @@ During my internship period, I participated in community service activities focu
 <!-- add your photos below -->
 <!-- change url below with your image urls (inside  src='')-->
 
-- These are just placeholder (sample) images <!-- remove this line -->
+
 
 <div align="center">
 <img src="https://github.com/siyaamodi/food-delivery-app/blob/main/WhatsApp%20Image%202025-12-23%20at%2022.32.43.jpeg" alt="Community Service Photo 1" width="30%">
